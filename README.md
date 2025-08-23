@@ -15,11 +15,9 @@ Ideal para dinâmicas, brincadeiras e, claro, para organizar o tradicional jogo 
 
 ---
 
-## 🎥 Demonstração
+## 🎥 Demonstração: Veja abaixo como funciona o projeto em ação: 
 ![Animação dcomo usar](https://github.com/user-attachments/assets/66815d72-7e90-4e09-9968-78e86c38ef2d)
 
-
-Veja abaixo como funciona o projeto em ação:  
 
 ![Demonstração do Amigo Secreto](./Animação%20dcomo%20usar.gif)
 
