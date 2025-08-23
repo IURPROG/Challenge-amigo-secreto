@@ -22,6 +22,16 @@ Ideal para dinâmicas, brincadeiras e, claro, para organizar o tradicional jogo 
 
 
 
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 📂 Estrutura do Projeto
