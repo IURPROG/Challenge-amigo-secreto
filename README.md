@@ -1,15 +1,28 @@
-# 🎲 Sorteador de Nomes
+# 🎁 Amigo Secreto
 
-Página simples feita em **HTML** e **JavaScript** para sortear nomes de forma aleatória.
+O **Amigo Secreto** é uma aplicação simples desenvolvida em **HTML** e **JavaScript**, que permite adicionar nomes de amigos e realizar um sorteio aleatório.  
+Ideal para dinâmicas, brincadeiras e, claro, para organizar o tradicional jogo de **amigo secreto** de forma prática e divertida! 🎉  
 
-## Como funciona
-1. Digite um nome no campo de texto.  
-2. Clique em **Inserir** para adicionar o nome à lista (mínimo de 3 nomes).  
-3. Clique em **Sortear** para escolher aleatoriamente um dos nomes.  
-4. O nome sorteado aparecerá em destaque na tela.  
+---
 
-## Tecnologias
-- HTML5  
-- JavaScript  
+## 🚀 Funcionalidades
 
-## Estrutura
+- Campo de entrada para **digitar os nomes**.  
+- Botão **Adicionar** para incluir cada nome na lista.  
+- Validação que exige **mínimo de 3 nomes** para habilitar o sorteio.  
+- Botão **Sortear amigo**, que seleciona **um nome aleatório** da lista.  
+- Exibição do nome sorteado em **destaque na tela**.  
+
+---
+
+## 🎥 Demonstração
+
+Veja abaixo como funciona o projeto em ação:  
+
+![Demonstração do Amigo Secreto](./Animação%20dcomo%20usar.gif)
+
+---
+
+## 📂 Estrutura do Projeto
+
+
