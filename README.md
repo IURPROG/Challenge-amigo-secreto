@@ -34,12 +34,15 @@ Ideal para dinâmicas, brincadeiras e, claro, para organizar o tradicional jogo 
 
 ---
 
+
+
 ## 📂 Estrutura do Projeto
 📦 amigo-secreto
 ├── index.html # Estrutura da página
 ├── script.js # Lógica do sorteio
 ├── style.css # Estilos visuais
 └── Animação dcomo usar.gif # Demonstração animada
+
 
 
 ---
